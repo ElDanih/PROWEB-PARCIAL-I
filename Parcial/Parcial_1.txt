@@ -1,6 +1,6 @@
 PARCIAL
 
-1) Dos formas de incluir css en un pagina HTML
+1) Dos formas de incluir css en un pagina HTML--
  
     1. Mediante la etiqueta "style", en ella se incluyen todos los estilos requeridos en el documento
     Ejm:
